@@ -1,7 +1,7 @@
 # SCOPER — Supply Chain Performance & Exception Reporter
 
 **Author:** Kendra M. Adams  
-**Tools Used:** Python, SQL (SQLite), Pandas, Matplotlib, Seaborn  
+**Tools Used:** Python, SQL, HTML
 **Industry:** Consumer Goods / E-Commerce Supply Chain  
 
 ---
