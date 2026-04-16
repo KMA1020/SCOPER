@@ -1,0 +1,210 @@
+======================================================================
+  WEEKLY SUPPLY CHAIN EXCEPTION REPORT
+  Generated: April 16, 2026 | Analyst: Kendra M. Adams
+======================================================================
+
+📊 EXECUTIVE SUMMARY
+----------------------------------------
+  🔴 Critical/Stockout Risk Products : 3
+  🟡 Low Stock / Reorder Required    : 4
+  🟠 Vendors Below On-Time Target    : 6
+  📦 Avg Customer Fill Rate          : 93.3%
+  📋 Total Action Items This Week    : 15
+
+
+🏭 INVENTORY RISK ANALYSIS
+----------------------------------------
+
+  [CRITICAL] Stainless Steel Water Bottle
+    Current Stock : 94 units
+    Days of Supply: 4.1 days
+    Weekly Demand : 161 units/week
+    Safety Stock  : 400 units
+
+  [CRITICAL] Smart Watch Band
+    Current Stock : 87 units
+    Days of Supply: 5.4 days
+    Weekly Demand : 112 units/week
+    Safety Stock  : 400 units
+
+  [CRITICAL] Bamboo Cutting Board
+    Current Stock : 205 units
+    Days of Supply: 7.0 days
+    Weekly Demand : 206 units/week
+    Safety Stock  : 350 units
+
+  [LOW STOCK] Essential Oil Diffuser
+    Current Stock : 564 units
+    Days of Supply: 17.1 days
+    Weekly Demand : 231 units/week
+    Safety Stock  : 175 units
+
+  [LOW STOCK] Resistance Bands Set
+    Current Stock : 440 units
+    Days of Supply: 17.3 days
+    Weekly Demand : 178 units/week
+    Safety Stock  : 300 units
+
+  [LOW STOCK] LED Desk Lamp
+    Current Stock : 729 units
+    Days of Supply: 18.1 days
+    Weekly Demand : 282 units/week
+    Safety Stock  : 150 units
+
+  [LOW STOCK] Vitamin C Supplements
+    Current Stock : 772 units
+    Days of Supply: 18.8 days
+    Weekly Demand : 287 units/week
+    Safety Stock  : 500 units
+
+
+🚚 VENDOR PERFORMANCE SCORECARD
+----------------------------------------
+
+  ❌ SunTech Suppliers (China)
+    On-Time Rate  : 36.8% (Target: 85.0%)
+    Avg Days Late : 1.2 days
+    Late Deliveries: 12 of 19
+
+  ❌ SwiftSource Ltd. (Mexico)
+    On-Time Rate  : 44.4% (Target: 85.0%)
+    Avg Days Late : 1.1 days
+    Late Deliveries: 15 of 27
+
+  ❌ PrimeLine Manufacturing (USA)
+    On-Time Rate  : 48.3% (Target: 85.0%)
+    Avg Days Late : 2.1 days
+    Late Deliveries: 15 of 29
+
+  ❌ Pacific Rim Distributors (South Korea)
+    On-Time Rate  : 56.1% (Target: 85.0%)
+    Avg Days Late : 1.8 days
+    Late Deliveries: 18 of 41
+
+  ❌ EastWest Imports (Taiwan)
+    On-Time Rate  : 60.0% (Target: 85.0%)
+    Avg Days Late : 0.9 days
+    Late Deliveries: 6 of 15
+
+  ❌ GlobalGoods Co. (Vietnam)
+    On-Time Rate  : 64.0% (Target: 85.0%)
+    Avg Days Late : 0.6 days
+    Late Deliveries: 9 of 25
+
+
+⚠️  LATE & AT-RISK PURCHASE ORDERS
+----------------------------------------
+
+  PO: PO-1162 | LED Desk Lamp
+    Vendor   : Pacific Rim Distributors
+    Status   : Delivered
+    Days Late: 18.0
+    Value    : $12,768.00
+
+  PO: PO-1177 | Smart Watch Band
+    Vendor   : Pacific Rim Distributors
+    Status   : Delivered
+    Days Late: 17.0
+    Value    : $12,369.00
+
+  PO: PO-1147 | Protein Powder Vanilla
+    Vendor   : PrimeLine Manufacturing
+    Status   : Delivered
+    Days Late: 12.0
+    Value    : $21,824.00
+
+  PO: PO-1074 | Resistance Bands Set
+    Vendor   : PrimeLine Manufacturing
+    Status   : Delivered
+    Days Late: 11.0
+    Value    : $6,426.00
+
+  PO: PO-1142 | Protein Powder Vanilla
+    Vendor   : PrimeLine Manufacturing
+    Status   : Delivered
+    Days Late: 11.0
+    Value    : $18,848.00
+
+  PO: PO-1179 | Protein Powder Vanilla
+    Vendor   : PrimeLine Manufacturing
+    Status   : Delivered
+    Days Late: 10.0
+    Value    : $21,920.00
+
+  PO: PO-1031 | Bamboo Cutting Board
+    Vendor   : SwiftSource Ltd.
+    Status   : Delivered
+    Days Late: 9.0
+    Value    : $6,704.00
+
+  PO: PO-1118 | Essential Oil Diffuser
+    Vendor   : EastWest Imports
+    Status   : Delivered
+    Days Late: 9.0
+    Value    : $6,195.00
+
+
+📦 CUSTOMER ORDER FULFILLMENT
+----------------------------------------
+
+  ❌ Protein Powder Vanilla
+    Fill Rate  : 86.4%
+    Backorders : 5
+
+  ❌ Travel Packing Cubes
+    Fill Rate  : 87.0%
+    Backorders : 2
+
+
+✅ ACTIONABLE RECOMMENDATIONS — PRIORITY ORDER
+----------------------------------------
+
+  1. 🔴 URGENT
+     EMERGENCY REORDER: Stainless Steel Water Bottle — only 94 units left (4.1 days of supply). Below safety stock of 400. Place order immediately.
+
+  2. 🔴 URGENT
+     EMERGENCY REORDER: Smart Watch Band — only 87 units left (5.4 days of supply). Below safety stock of 400. Place order immediately.
+
+  3. 🔴 URGENT
+     EMERGENCY REORDER: Bamboo Cutting Board — only 205 units left (7.0 days of supply). Below safety stock of 350. Place order immediately.
+
+  4. 🟡 MEDIUM
+     PLAN REORDER: Essential Oil Diffuser — 17.1 days of supply. Review lead times and place order within 5 days.
+
+  5. 🟡 MEDIUM
+     PLAN REORDER: Resistance Bands Set — 17.3 days of supply. Review lead times and place order within 5 days.
+
+  6. 🟡 MEDIUM
+     PLAN REORDER: LED Desk Lamp — 18.1 days of supply. Review lead times and place order within 5 days.
+
+  7. 🟡 MEDIUM
+     PLAN REORDER: Vitamin C Supplements — 18.8 days of supply. Review lead times and place order within 5 days.
+
+  8. 🟠 VENDOR
+     EVALUATE VENDOR: SunTech Suppliers (China) — on-time rate 36.8%, which is 48.2% below the 85.0% target. 12 late deliveries in period. Schedule performance review or identify backup supplier.
+
+  9. 🟠 VENDOR
+     EVALUATE VENDOR: SwiftSource Ltd. (Mexico) — on-time rate 44.4%, which is 40.6% below the 85.0% target. 15 late deliveries in period. Schedule performance review or identify backup supplier.
+
+  10. 🟠 VENDOR
+     EVALUATE VENDOR: PrimeLine Manufacturing (USA) — on-time rate 48.3%, which is 36.7% below the 85.0% target. 15 late deliveries in period. Schedule performance review or identify backup supplier.
+
+  11. 🟠 VENDOR
+     EVALUATE VENDOR: Pacific Rim Distributors (South Korea) — on-time rate 56.1%, which is 28.9% below the 85.0% target. 18 late deliveries in period. Schedule performance review or identify backup supplier.
+
+  12. 🟠 VENDOR
+     EVALUATE VENDOR: EastWest Imports (Taiwan) — on-time rate 60.0%, which is 25.0% below the 85.0% target. 6 late deliveries in period. Schedule performance review or identify backup supplier.
+
+  13. 🟠 VENDOR
+     EVALUATE VENDOR: GlobalGoods Co. (Vietnam) — on-time rate 64.0%, which is 21.0% below the 85.0% target. 9 late deliveries in period. Schedule performance review or identify backup supplier.
+
+  14. 🟡 MEDIUM
+     IMPROVE FILL RATE: Protein Powder Vanilla — fill rate at 86.4% with 5 backorders. Investigate root cause: vendor delays or insufficient safety stock.
+
+  15. 🟡 MEDIUM
+     IMPROVE FILL RATE: Travel Packing Cubes — fill rate at 87.0% with 2 backorders. Investigate root cause: vendor delays or insufficient safety stock.
+
+
+======================================================================
+  END OF REPORT
+======================================================================
